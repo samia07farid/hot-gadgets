@@ -1,0 +1,19 @@
+.logo-width img{
+    width: 120px;
+}
+.carousel-item{
+    padding: 10px 20px;
+}
+.p-style p{
+    color: gray;
+}
+.buy-now-btn{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
